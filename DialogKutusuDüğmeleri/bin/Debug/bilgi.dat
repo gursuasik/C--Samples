@@ -1,0 +1,2 @@
+Şimdi birinci formumuza dönüp bir Text kutusu yerleştirin ve MultiLine ö-zelliğini true yapın. Programa girerken bilgi.dat dosyasındaki bilgileri bu Text kutusunda gösterelim, çıkarken de yukarıdaki pencere ile kaydetmek isteyip istemediğini soralım ve kaydetmek istiyorsa Text kutusundaki bilgile-ri bilgi.dat dosyasına kaydedelim.
+Birinci forma aşağıdaki kodları yazarak bu işlemleri gerçekleştirebiliriz.

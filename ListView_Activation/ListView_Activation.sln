@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView_Activation", "ListView_Activation.csproj", "{59E1AC98-BEDA-463F-BA4D-0F096F6A1E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{59E1AC98-BEDA-463F-BA4D-0F096F6A1E05}.Debug.ActiveCfg = Debug|.NET
+		{59E1AC98-BEDA-463F-BA4D-0F096F6A1E05}.Debug.Build.0 = Debug|.NET
+		{59E1AC98-BEDA-463F-BA4D-0F096F6A1E05}.Release.ActiveCfg = Release|.NET
+		{59E1AC98-BEDA-463F-BA4D-0F096F6A1E05}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="YürüyenYazı">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\YürüyenYazı.sln">
+</Property><Property Name="Date" Value="18 Nisan 2008 Cuma">
+</Property><Property Name="Time" Value="23:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="YürüyenYazı.sln" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\Backup\YürüyenYazı.sln">
+</Event><Event ErrorLevel="0" Project="YürüyenYazı" Source="YürüyenYazı.csproj" Description="Project file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\Backup\YürüyenYazı.csproj">
+</Event><Event ErrorLevel="0" Project="YürüyenYazı" Source="YürüyenYazı.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\Backup\YürüyenYazı.csproj.user">
+</Event><Event ErrorLevel="0" Project="YürüyenYazı" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="YürüyenYazı" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="YürüyenYazı" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="YürüyenYazı" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="YürüyenYazı" Source="YürüyenYazı.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="YürüyenYazı" Source="YürüyenYazı.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="YürüyenYazı.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="YürüyenYazı.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="YürüyenYazı" Source="YürüyenYazı.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

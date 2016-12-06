@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checked_ListBox", "Checked_ListBox.csproj", "{15EB0FBC-652A-41D8-9F77-3DF71E079230}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{15EB0FBC-652A-41D8-9F77-3DF71E079230}.Debug.ActiveCfg = Debug|.NET
+		{15EB0FBC-652A-41D8-9F77-3DF71E079230}.Debug.Build.0 = Debug|.NET
+		{15EB0FBC-652A-41D8-9F77-3DF71E079230}.Release.ActiveCfg = Release|.NET
+		{15EB0FBC-652A-41D8-9F77-3DF71E079230}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

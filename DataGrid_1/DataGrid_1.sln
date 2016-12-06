@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGrid_1", "DataGrid_1.csproj", "{271B5861-B903-43EA-BC16-DBC40210C0F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{271B5861-B903-43EA-BC16-DBC40210C0F5}.Debug.ActiveCfg = Debug|.NET
+		{271B5861-B903-43EA-BC16-DBC40210C0F5}.Debug.Build.0 = Debug|.NET
+		{271B5861-B903-43EA-BC16-DBC40210C0F5}.Release.ActiveCfg = Release|.NET
+		{271B5861-B903-43EA-BC16-DBC40210C0F5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

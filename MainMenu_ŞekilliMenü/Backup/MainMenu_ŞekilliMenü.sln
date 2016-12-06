@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMenu_ÞekilliMenü", "MainMenu_ÞekilliMenü.csproj", "{B72458C8-11AA-4175-847D-CA72692EEA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B72458C8-11AA-4175-847D-CA72692EEA42}.Debug.ActiveCfg = Debug|.NET
+		{B72458C8-11AA-4175-847D-CA72692EEA42}.Debug.Build.0 = Debug|.NET
+		{B72458C8-11AA-4175-847D-CA72692EEA42}.Release.ActiveCfg = Release|.NET
+		{B72458C8-11AA-4175-847D-CA72692EEA42}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

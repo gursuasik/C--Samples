@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PadRight">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PadRight\PadRight.sln">
+</Property><Property Name="Date" Value="18 Nisan 2008 Cuma">
+</Property><Property Name="Time" Value="23:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PadRight.sln" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PadRight\Backup\PadRight.sln">
+</Event><Event ErrorLevel="0" Project="PadRight" Source="PadRight.csproj" Description="Project file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PadRight\Backup\PadRight.csproj">
+</Event><Event ErrorLevel="0" Project="PadRight" Source="PadRight.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PadRight\Backup\PadRight.csproj.user">
+</Event><Event ErrorLevel="0" Project="PadRight" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PadRight\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PadRight" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PadRight\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="PadRight" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PadRight\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="PadRight" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PadRight\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PadRight" Source="PadRight.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PadRight" Source="PadRight.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PadRight.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PadRight.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PadRight" Source="PadRight.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

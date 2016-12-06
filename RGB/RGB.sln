@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGB", "RGB.csproj", "{DC1F1135-32F6-4D12-A352-B9AE12343995}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DC1F1135-32F6-4D12-A352-B9AE12343995}.Debug.ActiveCfg = Debug|.NET
+		{DC1F1135-32F6-4D12-A352-B9AE12343995}.Debug.Build.0 = Debug|.NET
+		{DC1F1135-32F6-4D12-A352-B9AE12343995}.Release.ActiveCfg = Release|.NET
+		{DC1F1135-32F6-4D12-A352-B9AE12343995}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

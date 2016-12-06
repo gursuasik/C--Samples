@@ -1,0 +1,7 @@
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\bin\Debug\IndexOf.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\bin\Debug\IndexOf.pdb
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\obj\Debug\IndexOf.Form1.resources
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\obj\Debug\IndexOf.csproj.GenerateResource.Cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\obj\Debug\IndexOf.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\obj\Debug\IndexOf.pdb

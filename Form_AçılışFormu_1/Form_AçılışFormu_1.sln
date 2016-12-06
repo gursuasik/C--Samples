@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_AçýlýþFormu_1", "Form_AçýlýþFormu_1.csproj", "{FF0C8DF0-96FA-4903-830D-D4D0D908D81D}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FF0C8DF0-96FA-4903-830D-D4D0D908D81D}.Debug.ActiveCfg = Debug|.NET
+		{FF0C8DF0-96FA-4903-830D-D4D0D908D81D}.Debug.Build.0 = Debug|.NET
+		{FF0C8DF0-96FA-4903-830D-D4D0D908D81D}.Release.ActiveCfg = Release|.NET
+		{FF0C8DF0-96FA-4903-830D-D4D0D908D81D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

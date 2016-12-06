@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PictureBox_ResimSeç">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\PictureBox_ResimSeç.sln">
+</Property><Property Name="Date" Value="19 Nisan 2008 Cumartesi">
+</Property><Property Name="Time" Value="11:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PictureBox_ResimSeç.sln" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\Backup\PictureBox_ResimSeç.sln">
+</Event><Event ErrorLevel="0" Project="PictureBox_ResimSeç" Source="PictureBox_ResimSeç.csproj" Description="Project file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\Backup\PictureBox_ResimSeç.csproj">
+</Event><Event ErrorLevel="0" Project="PictureBox_ResimSeç" Source="PictureBox_ResimSeç.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\Backup\PictureBox_ResimSeç.csproj.user">
+</Event><Event ErrorLevel="0" Project="PictureBox_ResimSeç" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PictureBox_ResimSeç" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="PictureBox_ResimSeç" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="PictureBox_ResimSeç" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PictureBox_ResimSeç" Source="PictureBox_ResimSeç.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PictureBox_ResimSeç" Source="PictureBox_ResimSeç.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PictureBox_ResimSeç.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PictureBox_ResimSeç.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PictureBox_ResimSeç" Source="PictureBox_ResimSeç.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

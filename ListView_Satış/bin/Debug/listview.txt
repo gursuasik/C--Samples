@@ -1,0 +1,25 @@
+4
+İhsan Karagülle
+2
+Monitör
+150000000
+2
+300000000
+Musa Ataş
+1
+CD
+500000
+20
+10000000
+Adnan Yoldaş
+0
+Disket
+7500000
+2
+15000000
+Kemalettin Toraman
+3
+Klavye
+75000000
+4
+300000000

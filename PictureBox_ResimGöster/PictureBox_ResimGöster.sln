@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBox_ResimGöster", "PictureBox_ResimGöster.csproj", "{FE0CFCDF-5240-4DF4-930B-7DD66B55B99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FE0CFCDF-5240-4DF4-930B-7DD66B55B99C}.Debug.ActiveCfg = Debug|.NET
+		{FE0CFCDF-5240-4DF4-930B-7DD66B55B99C}.Debug.Build.0 = Debug|.NET
+		{FE0CFCDF-5240-4DF4-930B-7DD66B55B99C}.Release.ActiveCfg = Release|.NET
+		{FE0CFCDF-5240-4DF4-930B-7DD66B55B99C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

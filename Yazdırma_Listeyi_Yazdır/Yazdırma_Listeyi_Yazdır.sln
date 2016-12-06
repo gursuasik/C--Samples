@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yazdýrma_Listeyi_Yazdýr", "Yazdýrma_Listeyi_Yazdýr.csproj", "{384E184E-0442-4713-952E-687AAF8823B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{384E184E-0442-4713-952E-687AAF8823B7}.Debug.ActiveCfg = Debug|.NET
+		{384E184E-0442-4713-952E-687AAF8823B7}.Debug.Build.0 = Debug|.NET
+		{384E184E-0442-4713-952E-687AAF8823B7}.Release.ActiveCfg = Release|.NET
+		{384E184E-0442-4713-952E-687AAF8823B7}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

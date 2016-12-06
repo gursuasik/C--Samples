@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Font_Özellikleri", "Font_Özellikleri.csproj", "{CCF56CCF-F791-4502-859B-DE74F343333D}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CCF56CCF-F791-4502-859B-DE74F343333D}.Debug.ActiveCfg = Debug|.NET
+		{CCF56CCF-F791-4502-859B-DE74F343333D}.Debug.Build.0 = Debug|.NET
+		{CCF56CCF-F791-4502-859B-DE74F343333D}.Release.ActiveCfg = Release|.NET
+		{CCF56CCF-F791-4502-859B-DE74F343333D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

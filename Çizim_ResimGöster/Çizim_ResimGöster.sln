@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çizim_ResimGöster", "Çizim_ResimGöster.csproj", "{13333D51-11A3-407D-B658-9C2E1905BEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{13333D51-11A3-407D-B658-9C2E1905BEBB}.Debug.ActiveCfg = Debug|.NET
+		{13333D51-11A3-407D-B658-9C2E1905BEBB}.Debug.Build.0 = Debug|.NET
+		{13333D51-11A3-407D-B658-9C2E1905BEBB}.Release.ActiveCfg = Release|.NET
+		{13333D51-11A3-407D-B658-9C2E1905BEBB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

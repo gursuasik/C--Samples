@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMenu_RenkliMenü", "MainMenu_RenkliMenü.csproj", "{946BDDD7-2A17-4875-9632-96F4A52BEDD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{946BDDD7-2A17-4875-9632-96F4A52BEDD2}.Debug.ActiveCfg = Debug|.NET
+		{946BDDD7-2A17-4875-9632-96F4A52BEDD2}.Debug.Build.0 = Debug|.NET
+		{946BDDD7-2A17-4875-9632-96F4A52BEDD2}.Release.ActiveCfg = Release|.NET
+		{946BDDD7-2A17-4875-9632-96F4A52BEDD2}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

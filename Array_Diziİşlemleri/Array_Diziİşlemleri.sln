@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_DiziÝþlemleri", "Array_DiziÝþlemleri.csproj", "{FB2AC5FD-B5CB-49E4-A887-1B79AD961D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FB2AC5FD-B5CB-49E4-A887-1B79AD961D53}.Debug.ActiveCfg = Debug|.NET
+		{FB2AC5FD-B5CB-49E4-A887-1B79AD961D53}.Debug.Build.0 = Debug|.NET
+		{FB2AC5FD-B5CB-49E4-A887-1B79AD961D53}.Release.ActiveCfg = Release|.NET
+		{FB2AC5FD-B5CB-49E4-A887-1B79AD961D53}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

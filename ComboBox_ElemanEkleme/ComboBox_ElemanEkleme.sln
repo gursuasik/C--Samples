@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBox_ElemanEkleme", "ComboBox_ElemanEkleme.csproj", "{1C747518-594E-4BCB-BE0B-C87FF710CF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1C747518-594E-4BCB-BE0B-C87FF710CF69}.Debug.ActiveCfg = Debug|.NET
+		{1C747518-594E-4BCB-BE0B-C87FF710CF69}.Debug.Build.0 = Debug|.NET
+		{1C747518-594E-4BCB-BE0B-C87FF710CF69}.Release.ActiveCfg = Release|.NET
+		{1C747518-594E-4BCB-BE0B-C87FF710CF69}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MDIForm_Ornek">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\MDIForm_Ornek.sln">
+</Property><Property Name="Date" Value="18 Nisan 2008 Cuma">
+</Property><Property Name="Time" Value="23:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MDIForm_Ornek.sln" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\Backup\MDIForm_Ornek.sln">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="MDIForm_Ornek.csproj" Description="Project file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\Backup\MDIForm_Ornek.csproj">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="MDIForm_Ornek.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\Backup\MDIForm_Ornek.csproj.user">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="Form2.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="Form2.resx" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="MDIForm_Ornek.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MDIForm_Ornek" Source="MDIForm_Ornek.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MDIForm_Ornek.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MDIForm_Ornek.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MDIForm_Ornek" Source="MDIForm_Ornek.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichTextBox_RTFKodu", "RichTextBox_RTFKodu.csproj", "{DEFDA8CA-F9D3-4D7F-9BC4-61BA200B012E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DEFDA8CA-F9D3-4D7F-9BC4-61BA200B012E}.Debug.ActiveCfg = Debug|.NET
+		{DEFDA8CA-F9D3-4D7F-9BC4-61BA200B012E}.Debug.Build.0 = Debug|.NET
+		{DEFDA8CA-F9D3-4D7F-9BC4-61BA200B012E}.Release.ActiveCfg = Release|.NET
+		{DEFDA8CA-F9D3-4D7F-9BC4-61BA200B012E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

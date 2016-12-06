@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollBar", "ScrollBar.csproj", "{3C4A5B70-E540-47FB-A23B-95681DA0F903}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3C4A5B70-E540-47FB-A23B-95681DA0F903}.Debug.ActiveCfg = Debug|.NET
+		{3C4A5B70-E540-47FB-A23B-95681DA0F903}.Debug.Build.0 = Debug|.NET
+		{3C4A5B70-E540-47FB-A23B-95681DA0F903}.Release.ActiveCfg = Release|.NET
+		{3C4A5B70-E540-47FB-A23B-95681DA0F903}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

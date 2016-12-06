@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterKodlarý", "KarakterKodlarý.csproj", "{BE7233F5-2668-49F6-AB46-14CA6A59E567}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BE7233F5-2668-49F6-AB46-14CA6A59E567}.Debug.ActiveCfg = Debug|.NET
+		{BE7233F5-2668-49F6-AB46-14CA6A59E567}.Debug.Build.0 = Debug|.NET
+		{BE7233F5-2668-49F6-AB46-14CA6A59E567}.Release.ActiveCfg = Release|.NET
+		{BE7233F5-2668-49F6-AB46-14CA6A59E567}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

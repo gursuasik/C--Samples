@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpProvider_Örnek", "HelpProvider_Örnek.csproj", "{1B127F46-E784-4A81-A4EE-2B6DE8DDF79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1B127F46-E784-4A81-A4EE-2B6DE8DDF79A}.Debug.ActiveCfg = Debug|.NET
+		{1B127F46-E784-4A81-A4EE-2B6DE8DDF79A}.Debug.Build.0 = Debug|.NET
+		{1B127F46-E784-4A81-A4EE-2B6DE8DDF79A}.Release.ActiveCfg = Release|.NET
+		{1B127F46-E784-4A81-A4EE-2B6DE8DDF79A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

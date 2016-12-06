@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timer_ResimAnimasyonu", "timer_ResimAnimasyonu.csproj", "{E7D94387-30B1-41F5-92D2-48DFB3B0E37F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E7D94387-30B1-41F5-92D2-48DFB3B0E37F}.Debug.ActiveCfg = Debug|.NET
+		{E7D94387-30B1-41F5-92D2-48DFB3B0E37F}.Debug.Build.0 = Debug|.NET
+		{E7D94387-30B1-41F5-92D2-48DFB3B0E37F}.Release.ActiveCfg = Release|.NET
+		{E7D94387-30B1-41F5-92D2-48DFB3B0E37F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

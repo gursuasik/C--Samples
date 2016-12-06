@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFileDialog_MultiSelect", "OpenFileDialog_MultiSelect.csproj", "{E5FE148E-990D-4048-A08D-C0CEFCFD5A35}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E5FE148E-990D-4048-A08D-C0CEFCFD5A35}.Debug.ActiveCfg = Debug|.NET
+		{E5FE148E-990D-4048-A08D-C0CEFCFD5A35}.Debug.Build.0 = Debug|.NET
+		{E5FE148E-990D-4048-A08D-C0CEFCFD5A35}.Release.ActiveCfg = Release|.NET
+		{E5FE148E-990D-4048-A08D-C0CEFCFD5A35}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

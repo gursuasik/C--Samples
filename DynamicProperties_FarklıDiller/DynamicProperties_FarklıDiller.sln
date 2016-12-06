@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProperties_FarklýDiller", "DynamicProperties_FarklýDiller.csproj", "{ACF0D786-67B3-4819-98B2-4283EB60DC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{ACF0D786-67B3-4819-98B2-4283EB60DC9B}.Debug.ActiveCfg = Debug|.NET
+		{ACF0D786-67B3-4819-98B2-4283EB60DC9B}.Debug.Build.0 = Debug|.NET
+		{ACF0D786-67B3-4819-98B2-4283EB60DC9B}.Release.ActiveCfg = Release|.NET
+		{ACF0D786-67B3-4819-98B2-4283EB60DC9B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

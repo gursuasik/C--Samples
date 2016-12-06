@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+            Microsoft ResX Schema 
+        
+            Version 1.3
+                
+            The primary goals of this format is to allow a simple XML format 
+            that is mostly human readable. The generation and parsing of the 
+            various data types are done through the TypeConverter classes 
+            associated with the data types.
+        
+            Example:
+        
+                ... ado.net/XML headers & schema ...
+                <resheader name="resmimetype">text/microsoft-resx</resheader>
+                <resheader name="version">1.3</resheader>
+                <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+                <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+                <data name="Name1">this is my long string</data>
+                <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+                <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+                    [base64 mime encoded serialized .NET Framework object]
+                </data>
+                <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+                    [base64 mime encoded string representing a byte array form of the .NET Framework object]
+                </data>
+        
+            There are any number of "resheader" rows that contain simple 
+            name/value pairs.
+            
+            Each data row contains a name, and value. The row also contains a 
+            type or mimetype. Type corresponds to a .NET class that support 
+            text/value conversion through the TypeConverter architecture. 
+            Classes that don't support this are serialized and stored with the 
+            mimetype set.
+                     
+            The mimetype is used for serialized objects, and tells the 
+            ResXResourceReader how to depersist the object. This is currently not 
+            extensible. For a given mimetype the value must be set accordingly:
+        
+            Note - application/x-microsoft.net.object.binary.base64 is the format 
+                   that the ResXResourceWriter will generate, however the reader can 
+                   read any of the formats listed below.
+        
+            mimetype: application/x-microsoft.net.object.binary.base64
+            value   : The object must be serialized with 
+                    : System.Serialization.Formatters.Binary.BinaryFormatter
+                    : and then encoded with base64 encoding.
+        
+            mimetype: application/x-microsoft.net.object.soap.base64
+            value   : The object must be serialized with 
+                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+                    : and then encoded with base64 encoding.
+            mimetype: application/x-microsoft.net.object.bytearray.base64
+            value   : The object must be serialized into a byte array 
+                    : using a System.ComponentModel.TypeConverter
+                    : and then encoded with base64 encoding.
+        -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="statusBar1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="StatusBarPanel1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="StatusBarPanel1.Icon" type="System.Drawing.Icon, System.Drawing, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAICAQAAAAAADoAgAAJgAAABAQEAAAAAAAKAEAAA4DAAAoAAAAIAAAAEAAAAABAAQAAAAAAIAC
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAB3d3d3d3d3d3d3d3d3d3cAd3d3d3d3d3d3d3d3d3d3AAAAAAAA
+        AAAAAAAAAAAAdwAAAAAAAAAAAAAAAAAAAHcAAAAAAAAAdwAAAAAAAAB3AAAAAAAAAHcAAAAAAAAAdwAA
+        AAAAAAB3AAAAAAAAAHcAAAAAAAAAdwAAAAAAAAB3AAAAAAAAAHcAAAAAAAAAdwAAAAAAAAAAAAAAAAAA
+        AHcAAAAAAAAAAAAAB3AAAAB3AAAAAAAAB3dwAAdwAAAAdwAAAAAAB3AAB3AAAAAAAHcAAAAAAAcAAABw
+        AAAAAAB3AAAAAABwAAAABwAAAAAAdwAAAAAAcAAAAAcAAAAAAHcAAAAAAHAAAAAHAAAAAAB3AAAAAABw
+        AAAABwAAAAAAdwAAAAAABwAAAHAAAAAAAHcAAAAAAAdwAAdwAAAAAAB3AAAAAAAAB3dwAAAAAAAAdwAA
+        AAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAAAAAAB3AAAAAAAAAAAAAAAAAAAAdwAAAAAAAAAAAAAAAAAA
+        AHcAAP//////////////AAB3AAD//////////////wAHdwAA//////////////8AAHcAAP//////////
+        ////AAB3AAD//////////////wAAdwAA//////////////8AAAAAAAAAAAAAAAAAAAAAAAAAwAAAAMAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAAAAPwAAAH+AAAB/gAAAf
+        4AAAH+AAAA/AAAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAA
+        AAMoAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAA
+        AACAAIAAgIAAAMDAwACAgIAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAiIiIiIiIiIAAAAAAAA
+        AAgAAAAIAAAACAAAAAgAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAA
+        AAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAP//////8AgA///////wCAAAAAAAAAAAgAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAOAAAADgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA==
+</value>
+  </data>
+  <data name="StatusBarPanel2.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="StatusBarPanel2.Icon" type="System.Drawing.Icon, System.Drawing, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAICAQAAAAAADoAgAAJgAAABAQEAAAAAAAKAEAAA4DAAAoAAAAIAAAAEAAAAABAAQAAAAAAIAC
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAAAAAAAAAAAAAA4iDiIOIg4iDiAAAAAAAAAAAAz
+        MAAAMzAAAAAAAAAAAAAAAAg4iAAAAAAAAAAAAAAAAAMzMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiI
+        uIi4iLiIuIi4iLiIuIAIuAAAALiIuIi4iLgAAIiwCIi4iLiIuIi4iLiIAAC4gAi4iLiIuIi4iLiIuIi4
+        iLAIiLAAAAAAAAAAAAAACLiACLgId3d3d3d3d3d3d4CIsAiIB3d3d3d3d3d3d3dwuIAIuAd3eHh4eHh4
+        eHd3cIiwCIgHd4eHh4eHh4eHh3C4gAi4B3h4eHh4eHh4eHdwiLAIiAd3h4eHh4eHh4eHcLiACLgHeHh4
+        iIiIiIh4d3CIsAiIB3eHiIiIiIiHh4dwuIAIuAd4eHiIiIiIiHh3cIiwCIgHd4eIiIiIiIeHh3C4gAi4
+        B3h4eHh4eHh4eHdwiLAIiAd3h4eHh4eHh4eHcLiACLgHd3h4eHh4eHh4d3CIsAiIB3d3h4eHh4eHh3dw
+        uIAIuAd3d3d3d3d3d3d3cIiwCIgId3d3d3d3d3d3d4C4gAi4gAAAAAAAAAAAAAAIiLAIiLiIuIi4iLiI
+        uIi4iLiACLiIuIi4iLiIuIi4iLiIsAiIuIi4iLiIuIi4iLiIuIAAAAAAAAAAAAAAAAAAAAAA+AAAP/gA
+        AD/4AAA//8AH///AB/+AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA
+        AAEoAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAA
+        AACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAACDg4OA
+        AAAAAAAAAAAAAAi4uLi4uLiwCwCIiIiIAIAIgAAAAAAIsAsHd3d3d3CACAeHh4eHcLALB3iIiIhwgAgH
+        iIiIh3CwCwd4iIiIcIAIB4eHh4dwsAsHd3d3d3CACIAAAAAACLALi4uLi4uLgAAAAAAAAAAAwAcAAOAP
+        AACAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAA==
+</value>
+  </data>
+  <data name="StatusBarPanel3.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="StatusBarPanel3.Icon" type="System.Drawing.Icon, System.Drawing, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAICAQAAAAAADoAgAAJgAAABAQEAAAAAAAKAEAAA4DAAAoAAAAIAAAAEAAAAABAAQAAAAAAIAC
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAB3d3d3d3d3d3d3d3d3d3AAAAAAAAAAAAAAAAAAAAB3CPj4+Pj4
+        +Pj4+Pj4+Pj4Bw+AAAAAAAAAAACAAAAAjwcI8PD///////Dw8P/w8PgHD4AAAAAAAAAAAIAAAPCPBwjw
+        8PDw8PDw8PDw8PAA+AcPgAAAAAAAAAAAgAAA8I8HCPDw8PDw8PDw8PDw8PD4Bw+AAAAAAAAAAACAAAAA
+        jwcI+Pj4+Pj4+Pj4+Pj4+PgHD4AAAAAAAAAAAI+Pj4+PBwjw8PDw8PDw8PD4+Pj4+AcPgAAAAAAAAAAA
+        j4+Pj48HCPj4+Pj4+Pj4+Pj4+Pj4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA
+        AAAAAAAAAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAABwcHBwcHBwcHAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAYAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAA///
+        /+f////n////7////9f+qqqv/VVVX/qqqr/1////6/////f////r////9////+v////3////6/////f/
+        //8oAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAA
+        AACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAACIiIiIiI
+        iIAIDw8PDw8PgAjw8PDw8PCACA8PDw8PD4AI8PDw8PiIgAiIiIiIiIiAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAAD/9wAA//sAAPVXAADqrwAA3/8AAL//AADf/wAAv/8AAA==
+</value>
+  </data>
+  <data name="StatusBarPanel4.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="StatusBarPanel4.Icon" type="System.Drawing.Icon, System.Drawing, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAICAQAAAAAADoAgAAJgAAABAQEAAAAAAAKAEAAA4DAAAoAAAAIAAAAEAAAAABAAQAAAAAAIAC
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////wAAAAAAAAAAAAAAD///D///AAAAAAAAAA
+        AAD////w////8AAAAAAAAAAP/w//8P//D/8AAAAAAAAA//////D/////8AAAAAAAD/////////////8A
+        AAAAAA////////8P////AAAAAAD/D///////AP//D/AAAAAA////////8PD////wAAAAD/////////AP
+        /////wAAAA////////8PD/////8AAAAP////////AP//////AAAADwAA////8PD///AADwAAAA//////
+        /w8P//////8AAAAP//////Dw+f//////AAAAD/////8PD/+f/////wAAAAD////w8P//+f////AAAAAA
+        /w//Dw////+f/w/wAAAAAA//8PD/////+f//AAAAAAAP//8P//////+f/wAAAAAAAP/////w//////AA
+        AAAAAAAP/w//8P//D/8AAAAAAAAAAP////D////wAAAAAAAAAAAA///w///wAAAAAAAAAAAAAAD////w
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////w
+        H///gAP//gAA//wAAH/4AAA/8AAAH+AAAA/AAAAHwAAAB4AAAAOAAAADgAAAAwAAAAEAAAABAAAAAQAA
+        AAEAAAABAAAAAQAAAAGAAAADgAAAA4AAAAPAAAAHwAAAB+AAAA/wAAAf+AAAP/wAAH/+AAD//4AD///w
+        H/8oAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAA
+        AACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAAAAAAA
+        AAAAAADw/wAAAAAA9/D/fwAAAA//8P//8AAAB///8P9wAAD///8A//8AAP///wD//wAAAA/wD/AAAAD/
+        /wCZ//8AAAfwD/mfcAAAD////5nwAAAA9/D/fwAAAAAA8P8AAAAAAAAAAAAAAAAAAAAAAAAA+B8AAOAH
+        AADAAwAAgAEAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQAAgAEAAMADAADgBwAA+B8AAA==
+</value>
+  </data>
+  <data name="timer1.Location" type="System.Drawing.Point, System.Drawing, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>9, 3</value>
+  </data>
+  <data name="timer1.Modifiers" type="System.CodeDom.MemberAttributes, System, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Assembly</value>
+  </data>
+  <data name="$this.Name">
+    <value>Form1</value>
+  </data>
+</root>

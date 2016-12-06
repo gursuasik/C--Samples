@@ -1,0 +1,7 @@
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Resimli_Liste\bin\Debug\Resimli_Liste.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Resimli_Liste\bin\Debug\Resimli_Liste.pdb
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Resimli_Liste\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Resimli_Liste\obj\Debug\Resimli_Liste.Form1.resources
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Resimli_Liste\obj\Debug\Resimli_Liste.csproj.GenerateResource.Cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Resimli_Liste\obj\Debug\Resimli_Liste.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Resimli_Liste\obj\Debug\Resimli_Liste.pdb

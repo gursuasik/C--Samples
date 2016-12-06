@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio_Button2", "Radio_Button2.csproj", "{704D752D-D715-4ECF-AD12-D51320316EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{704D752D-D715-4ECF-AD12-D51320316EEA}.Debug.ActiveCfg = Debug|.NET
+		{704D752D-D715-4ECF-AD12-D51320316EEA}.Debug.Build.0 = Debug|.NET
+		{704D752D-D715-4ECF-AD12-D51320316EEA}.Release.ActiveCfg = Release|.NET
+		{704D752D-D715-4ECF-AD12-D51320316EEA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

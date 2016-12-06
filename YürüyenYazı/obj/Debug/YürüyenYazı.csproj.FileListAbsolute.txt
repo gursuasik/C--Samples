@@ -1,0 +1,7 @@
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\bin\Debug\YürüyenYazı.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\bin\Debug\YürüyenYazı.pdb
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\obj\Debug\YürüyenYazı.Form1.resources
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\obj\Debug\YürüyenYazı.csproj.GenerateResource.Cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\obj\Debug\YürüyenYazı.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\YürüyenYazı\obj\Debug\YürüyenYazı.pdb

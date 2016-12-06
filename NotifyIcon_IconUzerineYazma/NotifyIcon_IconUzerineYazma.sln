@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotifyIcon_IconUzerineYazma", "NotifyIcon_IconUzerineYazma.csproj", "{9C8D236D-7C42-403D-A838-E81D8AD99028}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9C8D236D-7C42-403D-A838-E81D8AD99028}.Debug.ActiveCfg = Debug|.NET
+		{9C8D236D-7C42-403D-A838-E81D8AD99028}.Debug.Build.0 = Debug|.NET
+		{9C8D236D-7C42-403D-A838-E81D8AD99028}.Release.ActiveCfg = Release|.NET
+		{9C8D236D-7C42-403D-A838-E81D8AD99028}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

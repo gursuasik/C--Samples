@@ -1,0 +1,7 @@
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\bin\Debug\Scale.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\bin\Debug\Scale.pdb
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\obj\Debug\Scale.Form1.resources
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\obj\Debug\Scale.csproj.GenerateResource.Cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\obj\Debug\Scale.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\obj\Debug\Scale.pdb

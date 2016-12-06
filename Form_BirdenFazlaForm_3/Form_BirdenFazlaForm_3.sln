@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_BirdenFazlaForm_3", "Form_BirdenFazlaForm_3.csproj", "{420BDF4F-5A25-442F-B3EF-1E138D7C2F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{420BDF4F-5A25-442F-B3EF-1E138D7C2F0E}.Debug.ActiveCfg = Debug|.NET
+		{420BDF4F-5A25-442F-B3EF-1E138D7C2F0E}.Debug.Build.0 = Debug|.NET
+		{420BDF4F-5A25-442F-B3EF-1E138D7C2F0E}.Release.ActiveCfg = Release|.NET
+		{420BDF4F-5A25-442F-B3EF-1E138D7C2F0E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

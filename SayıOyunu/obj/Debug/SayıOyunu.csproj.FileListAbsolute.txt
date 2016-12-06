@@ -1,0 +1,7 @@
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\SayıOyunu\bin\Debug\SayıOyunu.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\SayıOyunu\bin\Debug\SayıOyunu.pdb
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\SayıOyunu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\SayıOyunu\obj\Debug\SayıOyunu.Form1.resources
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\SayıOyunu\obj\Debug\SayıOyunu.csproj.GenerateResource.Cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\SayıOyunu\obj\Debug\SayıOyunu.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\SayıOyunu\obj\Debug\SayıOyunu.pdb

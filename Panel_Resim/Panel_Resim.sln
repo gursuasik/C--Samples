@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panel_Resim", "Panel_Resim.csproj", "{ED67E7F7-CB68-49F8-BE36-2B1B29E87687}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{ED67E7F7-CB68-49F8-BE36-2B1B29E87687}.Debug.ActiveCfg = Debug|.NET
+		{ED67E7F7-CB68-49F8-BE36-2B1B29E87687}.Debug.Build.0 = Debug|.NET
+		{ED67E7F7-CB68-49F8-BE36-2B1B29E87687}.Release.ActiveCfg = Release|.NET
+		{ED67E7F7-CB68-49F8-BE36-2B1B29E87687}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

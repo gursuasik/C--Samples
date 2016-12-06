@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenDialog_Filter", "OpenDialog_Filter.csproj", "{7C5CAE02-138B-401A-A560-3C9BA74B29B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7C5CAE02-138B-401A-A560-3C9BA74B29B5}.Debug.ActiveCfg = Debug|.NET
+		{7C5CAE02-138B-401A-A560-3C9BA74B29B5}.Debug.Build.0 = Debug|.NET
+		{7C5CAE02-138B-401A-A560-3C9BA74B29B5}.Release.ActiveCfg = Release|.NET
+		{7C5CAE02-138B-401A-A560-3C9BA74B29B5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

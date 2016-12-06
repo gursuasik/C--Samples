@@ -1,0 +1,3 @@
+Bir Text kutusu içine yazılan bilgileri bilgi.dat isimli dosyaya kaydedelim ve programa girerken bu dosyadaki bilgileri açalım. 
+Programa girerken bilgi.dat dosyasının olup olmadığını kontrol edeceğiz ve dosya varsa bilgileri Text kutusuna alacağız.
+Programdan çıkarken Text kutusundaki bilginin değişip değişmediğine baka-cağız. Bilgi değiştirilmişse kaydedilsin mi diye sorup, Evet cevabı verilirse bilgileri dosyaya kaydedeceğiz.

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime_Picker", "DateTime_Picker.csproj", "{3B9A7D13-3EBE-4065-9ABB-C2EFAE6AF173}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3B9A7D13-3EBE-4065-9ABB-C2EFAE6AF173}.Debug.ActiveCfg = Debug|.NET
+		{3B9A7D13-3EBE-4065-9ABB-C2EFAE6AF173}.Debug.Build.0 = Debug|.NET
+		{3B9A7D13-3EBE-4065-9ABB-C2EFAE6AF173}.Release.ActiveCfg = Release|.NET
+		{3B9A7D13-3EBE-4065-9ABB-C2EFAE6AF173}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

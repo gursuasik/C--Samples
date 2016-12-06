@@ -1,0 +1,7 @@
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MainMenu_ŞekilliMenü\bin\Debug\MainMenu_ŞekilliMenü.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MainMenu_ŞekilliMenü\bin\Debug\MainMenu_ŞekilliMenü.pdb
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MainMenu_ŞekilliMenü\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MainMenu_ŞekilliMenü\obj\Debug\MainMenu_ŞekilliMenü.Form1.resources
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MainMenu_ŞekilliMenü\obj\Debug\MainMenu_ŞekilliMenü.csproj.GenerateResource.Cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MainMenu_ŞekilliMenü\obj\Debug\MainMenu_ŞekilliMenü.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MainMenu_ŞekilliMenü\obj\Debug\MainMenu_ŞekilliMenü.pdb

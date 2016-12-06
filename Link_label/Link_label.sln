@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Link_label", "Link_label.csproj", "{0FD4C0DB-E1D7-4028-8902-6818E6A1E783}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0FD4C0DB-E1D7-4028-8902-6818E6A1E783}.Debug.ActiveCfg = Debug|.NET
+		{0FD4C0DB-E1D7-4028-8902-6818E6A1E783}.Debug.Build.0 = Debug|.NET
+		{0FD4C0DB-E1D7-4028-8902-6818E6A1E783}.Release.ActiveCfg = Release|.NET
+		{0FD4C0DB-E1D7-4028-8902-6818E6A1E783}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

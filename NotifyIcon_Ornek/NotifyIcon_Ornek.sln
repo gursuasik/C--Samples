@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotifyIcon_Ornek", "NotifyIcon_Ornek.csproj", "{8C071D06-D544-405B-A77E-0CAC9297AA65}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8C071D06-D544-405B-A77E-0CAC9297AA65}.Debug.ActiveCfg = Debug|.NET
+		{8C071D06-D544-405B-A77E-0CAC9297AA65}.Debug.Build.0 = Debug|.NET
+		{8C071D06-D544-405B-A77E-0CAC9297AA65}.Release.ActiveCfg = Release|.NET
+		{8C071D06-D544-405B-A77E-0CAC9297AA65}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

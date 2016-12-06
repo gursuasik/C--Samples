@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nTabaninaCevir", "nTabaninaCevir.csproj", "{CF5EAF12-EC04-418A-9A76-0DB00927690F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CF5EAF12-EC04-418A-9A76-0DB00927690F}.Debug.ActiveCfg = Debug|.NET
+		{CF5EAF12-EC04-418A-9A76-0DB00927690F}.Debug.Build.0 = Debug|.NET
+		{CF5EAF12-EC04-418A-9A76-0DB00927690F}.Release.ActiveCfg = Release|.NET
+		{CF5EAF12-EC04-418A-9A76-0DB00927690F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

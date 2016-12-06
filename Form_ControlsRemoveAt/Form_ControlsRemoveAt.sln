@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_ControlsRemoveAt", "Form_ControlsRemoveAt.csproj", "{330A938B-1CC9-4075-A3F7-26C569A96570}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{330A938B-1CC9-4075-A3F7-26C569A96570}.Debug.ActiveCfg = Debug|.NET
+		{330A938B-1CC9-4075-A3F7-26C569A96570}.Debug.Build.0 = Debug|.NET
+		{330A938B-1CC9-4075-A3F7-26C569A96570}.Release.ActiveCfg = Release|.NET
+		{330A938B-1CC9-4075-A3F7-26C569A96570}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

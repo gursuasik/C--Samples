@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AileYardýmý", "AileYardýmý.csproj", "{4E152FB0-C5BA-49CA-93D1-C2A7DCBCAECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4E152FB0-C5BA-49CA-93D1-C2A7DCBCAECF}.Debug.ActiveCfg = Debug|.NET
+		{4E152FB0-C5BA-49CA-93D1-C2A7DCBCAECF}.Debug.Build.0 = Debug|.NET
+		{4E152FB0-C5BA-49CA-93D1-C2A7DCBCAECF}.Release.ActiveCfg = Release|.NET
+		{4E152FB0-C5BA-49CA-93D1-C2A7DCBCAECF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

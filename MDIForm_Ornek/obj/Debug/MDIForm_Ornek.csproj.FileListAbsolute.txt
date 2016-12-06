@@ -1,0 +1,8 @@
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\bin\Debug\MDIForm_Ornek.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\bin\Debug\MDIForm_Ornek.pdb
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\obj\Debug\MDIForm_Ornek.Form1.resources
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\obj\Debug\MDIForm_Ornek.Form2.resources
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\obj\Debug\MDIForm_Ornek.csproj.GenerateResource.Cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\obj\Debug\MDIForm_Ornek.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\MDIForm_Ornek\obj\Debug\MDIForm_Ornek.pdb

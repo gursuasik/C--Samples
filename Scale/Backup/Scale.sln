@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scale", "Scale.csproj", "{CEE803EE-1200-4088-ABF1-61E4480323EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CEE803EE-1200-4088-ABF1-61E4480323EC}.Debug.ActiveCfg = Debug|.NET
+		{CEE803EE-1200-4088-ABF1-61E4480323EC}.Debug.Build.0 = Debug|.NET
+		{CEE803EE-1200-4088-ABF1-61E4480323EC}.Release.ActiveCfg = Release|.NET
+		{CEE803EE-1200-4088-ABF1-61E4480323EC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

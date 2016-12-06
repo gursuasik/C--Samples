@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForNext_Grafik", "ForNext_Grafik.csproj", "{67E061B9-379C-4D96-9808-51E2968727AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{67E061B9-379C-4D96-9808-51E2968727AF}.Debug.ActiveCfg = Debug|.NET
+		{67E061B9-379C-4D96-9808-51E2968727AF}.Debug.Build.0 = Debug|.NET
+		{67E061B9-379C-4D96-9808-51E2968727AF}.Release.ActiveCfg = Release|.NET
+		{67E061B9-379C-4D96-9808-51E2968727AF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

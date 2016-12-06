@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler_ArrayList", "Diziler_ArrayList.csproj", "{261C1DF3-576B-45C5-AA20-05C786C79A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{261C1DF3-576B-45C5-AA20-05C786C79A18}.Debug.ActiveCfg = Debug|.NET
+		{261C1DF3-576B-45C5-AA20-05C786C79A18}.Debug.Build.0 = Debug|.NET
+		{261C1DF3-576B-45C5-AA20-05C786C79A18}.Release.ActiveCfg = Release|.NET
+		{261C1DF3-576B-45C5-AA20-05C786C79A18}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

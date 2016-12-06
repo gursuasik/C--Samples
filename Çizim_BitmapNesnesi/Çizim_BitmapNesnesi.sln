@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çizim_BitmapNesnesi", "Çizim_BitmapNesnesi.csproj", "{5EE4C0B6-62BA-4F16-B264-37A487046227}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5EE4C0B6-62BA-4F16-B264-37A487046227}.Debug.ActiveCfg = Debug|.NET
+		{5EE4C0B6-62BA-4F16-B264-37A487046227}.Debug.Build.0 = Debug|.NET
+		{5EE4C0B6-62BA-4F16-B264-37A487046227}.Release.ActiveCfg = Release|.NET
+		{5EE4C0B6-62BA-4F16-B264-37A487046227}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

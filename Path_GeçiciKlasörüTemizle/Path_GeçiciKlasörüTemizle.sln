@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Path_GeçiciKlasörüTemizle", "Path_GeçiciKlasörüTemizle.csproj", "{DAD9A7C7-95B2-448D-8CF6-4BD955C79C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DAD9A7C7-95B2-448D-8CF6-4BD955C79C02}.Debug.ActiveCfg = Debug|.NET
+		{DAD9A7C7-95B2-448D-8CF6-4BD955C79C02}.Debug.Build.0 = Debug|.NET
+		{DAD9A7C7-95B2-448D-8CF6-4BD955C79C02}.Release.ActiveCfg = Release|.NET
+		{DAD9A7C7-95B2-448D-8CF6-4BD955C79C02}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

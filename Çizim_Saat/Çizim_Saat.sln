@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çizim_Saat", "Çizim_Saat.csproj", "{C45130B1-CD16-4A54-BDDA-7FF18BD24ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C45130B1-CD16-4A54-BDDA-7FF18BD24ED4}.Debug.ActiveCfg = Debug|.NET
+		{C45130B1-CD16-4A54-BDDA-7FF18BD24ED4}.Debug.Build.0 = Debug|.NET
+		{C45130B1-CD16-4A54-BDDA-7FF18BD24ED4}.Release.ActiveCfg = Release|.NET
+		{C45130B1-CD16-4A54-BDDA-7FF18BD24ED4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

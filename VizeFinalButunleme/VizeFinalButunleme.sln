@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VizeFinalButunleme", "VizeFinalButunleme.csproj", "{47703658-AC02-42C7-A1A6-AA2A3DA38B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{47703658-AC02-42C7-A1A6-AA2A3DA38B8A}.Debug.ActiveCfg = Debug|.NET
+		{47703658-AC02-42C7-A1A6-AA2A3DA38B8A}.Debug.Build.0 = Debug|.NET
+		{47703658-AC02-42C7-A1A6-AA2A3DA38B8A}.Release.ActiveCfg = Release|.NET
+		{47703658-AC02-42C7-A1A6-AA2A3DA38B8A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FareHareketleri">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\FareHareketleri\FareHareketleri.sln">
+</Property><Property Name="Date" Value="18 Nisan 2008 Cuma">
+</Property><Property Name="Time" Value="23:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FareHareketleri.sln" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\FareHareketleri\Backup\FareHareketleri.sln">
+</Event><Event ErrorLevel="0" Project="FareHareketleri" Source="FareHareketleri.csproj" Description="Project file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\FareHareketleri\Backup\FareHareketleri.csproj">
+</Event><Event ErrorLevel="0" Project="FareHareketleri" Source="FareHareketleri.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\FareHareketleri\Backup\FareHareketleri.csproj.user">
+</Event><Event ErrorLevel="0" Project="FareHareketleri" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\FareHareketleri\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FareHareketleri" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\FareHareketleri\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="FareHareketleri" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\FareHareketleri\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="FareHareketleri" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\FareHareketleri\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="FareHareketleri" Source="FareHareketleri.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FareHareketleri" Source="FareHareketleri.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FareHareketleri.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FareHareketleri.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FareHareketleri" Source="FareHareketleri.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

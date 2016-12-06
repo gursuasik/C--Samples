@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListeKutusu_KullanýcýTanýmlýNesneEkleme", "ListeKutusu_KullanýcýTanýmlýNesneEkleme.csproj", "{D1224AEF-AC6A-41C7-8C96-77B9BC2B4F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D1224AEF-AC6A-41C7-8C96-77B9BC2B4F2F}.Debug.ActiveCfg = Debug|.NET
+		{D1224AEF-AC6A-41C7-8C96-77B9BC2B4F2F}.Debug.Build.0 = Debug|.NET
+		{D1224AEF-AC6A-41C7-8C96-77B9BC2B4F2F}.Release.ActiveCfg = Release|.NET
+		{D1224AEF-AC6A-41C7-8C96-77B9BC2B4F2F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

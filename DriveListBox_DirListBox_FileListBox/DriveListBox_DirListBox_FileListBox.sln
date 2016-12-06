@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveListBox_DirListBox_FileListBox", "DriveListBox_DirListBox_FileListBox.csproj", "{0536BFB9-9512-4BD6-BE67-A12E6C76B982}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0536BFB9-9512-4BD6-BE67-A12E6C76B982}.Debug.ActiveCfg = Debug|.NET
+		{0536BFB9-9512-4BD6-BE67-A12E6C76B982}.Debug.Build.0 = Debug|.NET
+		{0536BFB9-9512-4BD6-BE67-A12E6C76B982}.Release.ActiveCfg = Release|.NET
+		{0536BFB9-9512-4BD6-BE67-A12E6C76B982}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

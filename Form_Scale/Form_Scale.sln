@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_Scale", "Form_Scale.csproj", "{030132DB-62F0-4826-BD9F-F616E953D1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{030132DB-62F0-4826-BD9F-F616E953D1EB}.Debug.ActiveCfg = Debug|.NET
+		{030132DB-62F0-4826-BD9F-F616E953D1EB}.Debug.Build.0 = Debug|.NET
+		{030132DB-62F0-4826-BD9F-F616E953D1EB}.Release.ActiveCfg = Release|.NET
+		{030132DB-62F0-4826-BD9F-F616E953D1EB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

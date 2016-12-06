@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resimli_ComboBox", "Resimli_ComboBox.csproj", "{CF19A184-F5E5-424B-9DF5-803C3C5D3BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CF19A184-F5E5-424B-9DF5-803C3C5D3BCF}.Debug.ActiveCfg = Debug|.NET
+		{CF19A184-F5E5-424B-9DF5-803C3C5D3BCF}.Debug.Build.0 = Debug|.NET
+		{CF19A184-F5E5-424B-9DF5-803C3C5D3BCF}.Release.ActiveCfg = Release|.NET
+		{CF19A184-F5E5-424B-9DF5-803C3C5D3BCF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

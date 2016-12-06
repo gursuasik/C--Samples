@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAddDays", "DateAddDays.csproj", "{07A6A334-EDBD-448B-9AF7-88C6859C4032}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{07A6A334-EDBD-448B-9AF7-88C6859C4032}.Debug.ActiveCfg = Debug|.NET
+		{07A6A334-EDBD-448B-9AF7-88C6859C4032}.Debug.Build.0 = Debug|.NET
+		{07A6A334-EDBD-448B-9AF7-88C6859C4032}.Release.ActiveCfg = Release|.NET
+		{07A6A334-EDBD-448B-9AF7-88C6859C4032}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

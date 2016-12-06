@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOf", "IndexOf.csproj", "{ADBC7960-5889-4D38-BB37-354D9E5F3BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBC7960-5889-4D38-BB37-354D9E5F3BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBC7960-5889-4D38-BB37-354D9E5F3BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBC7960-5889-4D38-BB37-354D9E5F3BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBC7960-5889-4D38-BB37-354D9E5F3BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

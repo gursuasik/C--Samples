@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IndexOf">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\IndexOf.sln">
+</Property><Property Name="Date" Value="19 Nisan 2008 Cumartesi">
+</Property><Property Name="Time" Value="11:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IndexOf.sln" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\Backup\IndexOf.sln">
+</Event><Event ErrorLevel="0" Project="IndexOf" Source="IndexOf.csproj" Description="Project file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\Backup\IndexOf.csproj">
+</Event><Event ErrorLevel="0" Project="IndexOf" Source="IndexOf.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\Backup\IndexOf.csproj.user">
+</Event><Event ErrorLevel="0" Project="IndexOf" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IndexOf" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="IndexOf" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="IndexOf" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\IndexOf\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="IndexOf" Source="IndexOf.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IndexOf" Source="IndexOf.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IndexOf.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IndexOf.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IndexOf" Source="IndexOf.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

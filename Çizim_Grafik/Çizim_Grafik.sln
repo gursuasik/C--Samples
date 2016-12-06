@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çizim_Grafik", "Çizim_Grafik.csproj", "{CEFCDC00-252C-4E06-B12B-BE3DEF420437}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CEFCDC00-252C-4E06-B12B-BE3DEF420437}.Debug.ActiveCfg = Debug|.NET
+		{CEFCDC00-252C-4E06-B12B-BE3DEF420437}.Debug.Build.0 = Debug|.NET
+		{CEFCDC00-252C-4E06-B12B-BE3DEF420437}.Release.ActiveCfg = Release|.NET
+		{CEFCDC00-252C-4E06-B12B-BE3DEF420437}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

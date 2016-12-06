@@ -1,0 +1,7 @@
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\bin\Debug\PictureBox_ResimSeç.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\bin\Debug\PictureBox_ResimSeç.pdb
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\obj\Debug\PictureBox_ResimSeç.Form1.resources
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\obj\Debug\PictureBox_ResimSeç.csproj.GenerateResource.Cache
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\obj\Debug\PictureBox_ResimSeç.exe
+C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\PictureBox_ResimSeç\obj\Debug\PictureBox_ResimSeç.pdb

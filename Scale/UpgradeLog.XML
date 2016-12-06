@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Scale">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\Scale.sln">
+</Property><Property Name="Date" Value="18 Nisan 2008 Cuma">
+</Property><Property Name="Time" Value="23:26">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Scale.sln" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\Backup\Scale.sln">
+</Event><Event ErrorLevel="0" Project="Scale" Source="Scale.csproj" Description="Project file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\Backup\Scale.csproj">
+</Event><Event ErrorLevel="0" Project="Scale" Source="Scale.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\Backup\Scale.csproj.user">
+</Event><Event ErrorLevel="0" Project="Scale" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Scale" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Scale" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Scale" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\ToPrAcK.DREAM\Desktop\Visual C# net Başlangı Rehberi\Scale\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Scale" Source="Scale.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Scale" Source="Scale.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Scale.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Scale.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Scale" Source="Scale.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

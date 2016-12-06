@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenu_Ornek", "ContextMenu_Ornek.csproj", "{A98D796A-12F9-49FD-8952-0648A81AAECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A98D796A-12F9-49FD-8952-0648A81AAECC}.Debug.ActiveCfg = Debug|.NET
+		{A98D796A-12F9-49FD-8952-0648A81AAECC}.Debug.Build.0 = Debug|.NET
+		{A98D796A-12F9-49FD-8952-0648A81AAECC}.Release.ActiveCfg = Release|.NET
+		{A98D796A-12F9-49FD-8952-0648A81AAECC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

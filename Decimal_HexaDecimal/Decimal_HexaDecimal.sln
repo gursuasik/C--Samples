@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decimal_HexaDecimal", "Decimal_HexaDecimal.csproj", "{2525D11C-53DB-4805-880D-4547D4331D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2525D11C-53DB-4805-880D-4547D4331D1F}.Debug.ActiveCfg = Debug|.NET
+		{2525D11C-53DB-4805-880D-4547D4331D1F}.Debug.Build.0 = Debug|.NET
+		{2525D11C-53DB-4805-880D-4547D4331D1F}.Release.ActiveCfg = Release|.NET
+		{2525D11C-53DB-4805-880D-4547D4331D1F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
