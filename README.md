@@ -1,2 +1,2 @@
-# C#-Samples
+# C# Samples
 C# Samples
